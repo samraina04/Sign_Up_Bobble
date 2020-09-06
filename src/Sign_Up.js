@@ -1,5 +1,4 @@
-// google - "649673407760-b8posldkvjm5gdmnfgf61b86cfdle59d.apps.googleusercontent.com"
-//facebook - 238788654126527
+
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "./sign_up.css";
